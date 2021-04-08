@@ -1,0 +1,10 @@
+Three input files use this code, but the first output file is currently finished other two showing garbage. 
+
+ 
+I am trying to sort three files (I/O) using bubble sort. For this purpose, I write this code.
+
+
+First input file function output is working properly. Second and third input function gives garbage value in output file two and three. 
+
+
+But I can't seem to locate any solutions to a similar problem. I'm really having trouble with understanding file I/O for some reason. Thanks in advance for the help.

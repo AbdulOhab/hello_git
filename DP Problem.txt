@@ -1,0 +1,13 @@
+A. The Way to Home-dp problem in cf
+
+
+Project: Ai book editor
+
+Some famous Dynamic Programming algorithms are:
+
+    Unix diff for comparing two files
+    Bellman-Ford for shortest path routing in networks
+    TeX the ancestor of LaTeX
+    WASP - Winning and Score Predictor
+Fibonacci, Staircase and Min-Path Grid
+Combination Sum, Coin Change (min) and Coin Change (count).
